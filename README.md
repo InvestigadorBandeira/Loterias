@@ -1,0 +1,4 @@
+Loterias
+========
+
+Sistema de probabilidades.
